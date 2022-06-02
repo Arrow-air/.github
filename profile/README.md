@@ -1,4 +1,4 @@
-<img src="/assets/arrow_v2_twitter-banner_neu.png">
+<img src="/profile/assets/arrow_v2_twitter-banner_neu.png">
 
 # 👋 Welcome to Arrow!
 
