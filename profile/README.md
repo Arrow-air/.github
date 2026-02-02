@@ -2,9 +2,7 @@
 
 <img src="/profile/assets/arrow_v2_twitter-banner_neu.png">
 
-**Arrow is a global DAO building open source VTOL aircraft.**
-
-We believe open source hardware is becoming viable like open source software. AI tools, CAD simulation, and distributed manufacturing enable worldwide collaboration on hardware—without centralized facilities.
+**Arrow is proving open source hardware works for aircraft.** Our first platform, Project Quiver, has 12 dev-kits deployed worldwide—every design file, from mechanical CAD to PCB schematics, fully open.
 
 **Mission:** Increase physical connectedness to the people and places you love.
 
