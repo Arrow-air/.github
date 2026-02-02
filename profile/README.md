@@ -1,20 +1,67 @@
+# 👋 Welcome to Arrow
 
-
-# 👋 Welcome!
 <img src="/profile/assets/arrow_v2_twitter-banner_neu.png">
 
-Current transportation infrastructure is radically suboptimal for a distributed population. Roads and current commercial air travel are far too indirect to be practical. We need a point-to-point way of travel that is **easy and affordable** for everyone. 
+**Arrow is a global DAO building open source VTOL aircraft.**
 
-Arrow is a decentralized community building vertical take-off and landing (VTOL) aircraft and rideshare protocols to bring personal air travel to everyone.
+We believe open source hardware is becoming viable like open source software. AI tools, CAD simulation, and distributed manufacturing enable worldwide collaboration on hardware—without centralized facilities.
 
+**Mission:** Increase physical connectedness to the people and places you love.
 
-### 🦄 Web3 Native
-Thanks to blockchain technology, Arrow's business logic lives on the Ethereum blockchain ✨. Being web3-native allows us to appreciate contributors with a mix of stablecoins and ARROW tokens 💰, irrespective of where they came from! 
+---
 
-The transparent nature of the web3 world means that we are completely open-source! Yes, even for hardware projects! We believe an open community will build a larger "brain trust" 🧠 than any company building in secret could have.
+## 🚁 Project Quiver
 
+Our flagship project is an open-source multipurpose quadcopter platform designed for reliability, modularity, and real-world use.
 
-### 🎉 Join Us
-Head to our Discord server 👉[here](https://discord.gg/arrow)👈 to embark on a journey of building the future of transportation.
+| Spec | Value |
+|------|-------|
+| Max Takeoff Weight | 25 kg |
+| Payload Capacity | 5-8 kg |
+| Hover Endurance | 25-31 minutes |
+| Flight Controller | ArduPilot (Pix32 V6) |
+| Attachment Interfaces | 3 (bottom, left, right) |
 
-Check out [Contributors Hub](https://arrowair.com/docs/contributing/contributors-hub) to learn more about the tools and frameworks we use for collaboration and compensation. 
+**Dev-kits are available for loan** — build attachments, test integrations, contribute to the ecosystem.
+
+📦 **[project-quiver](https://github.com/Arrow-air/project-quiver)** — CAD files, PCB designs, assembly guides, flight logs
+
+---
+
+## 📚 Key Repositories
+
+| Repo | Description |
+|------|-------------|
+| [project-quiver](https://github.com/Arrow-air/project-quiver) | Hardware designs, assembly guides, flight test logs |
+| [project-flight-tracking](https://github.com/Arrow-air/project-flight-tracking) | Flight tracking platform |
+| [website](https://github.com/Arrow-air/website) | Documentation site (Docusaurus) |
+| [dao-aips](https://github.com/Arrow-air/dao-aips) | Arrow Improvement Proposals (governance) |
+
+---
+
+## 🦄 DAO-Native Hardware
+
+Arrow isn't a company—it's a global collective coordinated through Ethereum.
+
+**Why it matters for hardware:**
+- **Borderless contributors** — Engineers in Texas, Germany, and beyond collaborate and get paid in stablecoins + $ARROW tokens
+- **Radical transparency** — CAD files, PCB designs, flight logs—all open source. Even our governance proposals are public.
+- **Decentralized manufacturing** — Community manufacturers worldwide, not a single factory
+
+Governance happens through Arrow Improvement Proposals (AIPs), voted on via [Snapshot](https://snapshot.box/#/s:arrowair.eth) and discussed on our [DAO Forum](https://dao.arrowair.com).
+
+We're proving open source hardware can work like open source software.
+
+---
+
+## 🎉 Get Involved
+
+- **Discord:** [discord.gg/arrow](https://discord.gg/arrow) — where the community lives
+- **Docs:** [arrowair.com/docs](https://arrowair.com/docs) — technical documentation
+- **Contribute:** [Contributors Hub](https://arrowair.com/docs/contributing/contributors-hub) — tools, frameworks, compensation
+
+Whether you're an engineer, designer, writer, or just curious about the future of flight—there's a place for you here.
+
+---
+
+<sub>Building the future of transportation, one commit at a time. ✈️</sub>
