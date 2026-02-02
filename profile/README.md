@@ -2,7 +2,7 @@
 
 <img src="/profile/assets/arrow_v2_twitter-banner_neu.png">
 
-**Arrow is proving open source hardware works for aircraft.** Our first platform, Project Quiver, has 12 dev-kits deployed worldwide—every design file, from mechanical CAD to PCB schematics, fully open.
+**Arrow is proving open source hardware works for aircraft.** Our first platform, Project Quiver, has 12 dev-kits being deployed worldwide—every design file, from mechanical CAD to PCB schematics, fully open.
 
 **Mission:** Increase physical connectedness to the people and places you love.
 
