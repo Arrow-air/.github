@@ -1,6 +1,6 @@
 # 👋 Welcome to Arrow
 
-<img src="/profile/assets/arrow_v2_twitter-banner_neu.png">
+<img src="/profile/assets/twitter-x-plain-banner.png" alt="Arrow — open source aircraft community">
 
 **Arrow is proving open source hardware works for aircraft.** Our first platform, Project Quiver, has 12 dev-kits being deployed worldwide—every design file, from mechanical CAD to PCB schematics, fully open.
 
